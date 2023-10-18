@@ -1,12 +1,12 @@
+<p align="center">
 # Object Master
-<aside align="center">
 
-<span align="center"> ![Untitled](./assets/Untitled.png) </span>
+<p align="center"> ![Untitled](./assets/Untitled.png) </p>
 
 **💡 Some data we encounter will be immutable, meaning we can not modify it in place. 
 Using `map()`, `filter()`, and `forEach()`, create new arrays 💪**
 
-</aside>
+</p>
 
 -----
 ### Tags: 
