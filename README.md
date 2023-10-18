@@ -249,7 +249,6 @@ result = pokemon.map( i => (i.id===35) ? {... i, types: i.types.map(j=>(j=="norm
 **Output:**
 
 ![Untitled](./assets/Untitled%2010.png)
----
 
 
 
